@@ -35,6 +35,5 @@ int main(){
         mrt+=(n-i)*arr[i].size;
     }
     printf("Mean retrieval time = %f\n",(float)mrt/n);
-
 }
 

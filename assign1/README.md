@@ -2,7 +2,7 @@
 ```
 gcc da1.c
 ```
-##Output  
+## Output  
 
 ```
 shubham@shubham:~/github/daa/assign1$ ./a.out
